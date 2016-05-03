@@ -1,10 +1,10 @@
 # Metisa - Data Science Challenge
 
-### Background
+### Background:
 
 In this challenge, you will build a recommender that can recommend websites that a user should visit based on his/her browsing history.
 
-You will be working with the 'Anonymous Microsoft Web Data Data Set' [here](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data).
+You will be working with the 'Anonymous Microsoft Web Data Data Set' [here](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data), which contains a list of website that users have visited.
 
 The data is in an ASCII-based sparse-data format called "DST". Each line of the data file starts with a letter which tells the line's type. The three line types of interest are Attribute, Case and Vote. Each Attribute is a website, each Case is a user and each Vote is an Attribute that the user visited. For more details, please read the data description file for the structure of the data set.
 
