@@ -26,4 +26,4 @@ Please also answer the following questions:
 3. We also value your input on how this challenge can be improved.
 4. Very important: we want to see how you think. Please write down all your thoughts, however preliminary. We much prefer that you discuss an issue without offering a solution, rather than not mentioning it.
 
-Thank you very much for participating in the challenge. We are looking forward to discussing your solution. Feel free to reach out to Justin (justin@altitudelabs.com) if you have any questions!
+Thank you very much for participating in the challenge. We are looking forward to discussing your solution. Feel free to reach out to Damien (damien@altitudelabs.com) if you have any questions!
